@@ -38,7 +38,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,java"/>
+<img src="https://skillicons.dev/icons?i=python,c"/>
 
 </p>
 
@@ -85,28 +85,6 @@ Goal:
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
 </p>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -204,35 +182,101 @@ Building next-generation AI applications using:
 
 ---
 
-# 📚 Publications
+<h2 align="center">🌟 Research Spotlight</h2>
 
-### 📝 LinkedIn Job Trend Analysis
+<div align="center">
 
-Published in **IJARSET**
+<table>
+<tr>
+<td width="100%">
 
-Research Focus:
+<h3>📝 LinkedIn Job Trend Analysis</h3>
 
-* Hiring Trends
-* Skill Demand Analysis
-* Industry Insights
-* Data Analytics
+<p>
+Published in <b>IJARSET</b>, this research explores workforce trends using LinkedIn datasets to identify emerging skills, hiring patterns, and industry demands through data-driven analysis.
+</p>
+
+<br>
+
+<table>
+<tr>
+<td align="center">📈<br><b>Hiring Trends</b></td>
+<td align="center">🎯<br><b>Skill Demand</b></td>
+<td align="center">🏢<br><b>Industry Insights</b></td>
+<td align="center">📊<br><b>Data Analytics</b></td>
+</tr>
+</table>
+
+<br>
+
+⭐ Published Research • 📖 Academic Contribution • 🚀 Data-Driven Insights
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-# 🎓 Certifications
+<h2 align="center">🎓 Certification Dashboard</h2>
 
-🏅 Infosys – Artificial Intelligence & Prompt Engineering
+<table align="center">
+<tr>
+<td align="center">
 
-🏅 IBM – Getting Started with Generative AI
+🥇<br>
+<b>Infosys</b><br>
+AI & Prompt Engineering
 
-🏅 Tata – GenAI Powered Data Analytics
+</td>
 
-🏅 Google – Student Ambassador
+<td align="center">
 
-🏅 Kaggle – 5-Day Gen AI Intensive
+🤖<br>
+<b>IBM</b><br>
+Generative AI
 
-🏅 Intellipaat – Excel Certification
+</td>
 
+<td align="center">
+
+📊<br>
+<b>Tata</b><br>
+GenAI Analytics
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+🌐<br>
+<b>Google</b><br>
+Student Ambassador
+
+</td>
+
+<td align="center">
+
+🧠<br>
+<b>Kaggle</b><br>
+GenAI Intensive
+
+</td>
+
+<td align="center">
+
+📈<br>
+<b>Intellipaat</b><br>
+Excel Certification
+
+</td>
+
+</tr>
+</table>
 ---
 
 # 🌐 Connect With Me
