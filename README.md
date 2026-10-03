@@ -24,3 +24,46 @@ END SNAKE -->
 <a href="mailto:vishnubabalsure@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" /></a>
 
 </div>
+
+name: Generate Projects Panel
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "projects.json"
+      - "logos/**"
+      - ".github/scripts/generate_projects.py"
+      - ".github/scripts/fetch_data.py"
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch live repo data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/fetch_data.py
+
+      - name: Generate projects.svg
+        run: |
+          mkdir -p out
+          python3 .github/scripts/generate_projects.py merged.json out
+
+      - name: Push to projects branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: projects
+          build_dir: out
+          commit_message: "Update projects panel [skip ci]"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
