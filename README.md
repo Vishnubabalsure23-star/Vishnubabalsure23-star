@@ -27,12 +27,10 @@
 
 ---
 
-# 🚀 Featured Project 
+# 🚀 Featured Project
 
- <div align="center">
-
-<img src=" projects.svg"/>
-
+<div align="center">
+  <img src="./projects.svg" alt="Featured Projects" width="100%" />
 </div>
 
 ---
