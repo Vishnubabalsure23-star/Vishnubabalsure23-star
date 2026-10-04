@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true](https://github.com/Vishnubabalsure23-star/Vishnubabalsure23-star/blob/main/snake-dark.svg)"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true](https://github.com/Vishnubabalsure23-star/Vishnubabalsure23-star/blob/main/snake-dark.svg"/>
 
 </div>
 
