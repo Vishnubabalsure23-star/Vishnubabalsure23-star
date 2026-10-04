@@ -39,65 +39,9 @@
   <img src="./publications.svg" alt="publications" width="100%" />
 </div>
 ---
-
-<h2 align="center">🎓 Certification Dashboard</h2>
-
-<table align="center">
-<tr>
-<td align="center">
-
-🥇<br>
-<b>Infosys</b><br>
-AI & Prompt Engineering
-
-</td>
-
-<td align="center">
-
-🤖<br>
-<b>IBM</b><br>
-Generative AI
-
-</td>
-
-<td align="center">
-
-📊<br>
-<b>Tata</b><br>
-GenAI Analytics
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-🌐<br>
-<b>Google</b><br>
-Student Ambassador
-
-</td>
-
-<td align="center">
-
-🧠<br>
-<b>Kaggle</b><br>
-GenAI Intensive
-
-</td>
-
-<td align="center">
-
-📈<br>
-<b>Intellipaat</b><br>
-Excel Certification
-
-</td>
-
-</tr>
-</table>
+<div align="center">
+  <img src="./certifications.svg" alt="certifications" width="100%" />
+</div>
 
 ---
 
