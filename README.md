@@ -7,7 +7,6 @@
 </div>
 
 
-# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -15,9 +14,7 @@
 
 </div>
 
----
 
-# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -25,27 +22,23 @@
 
 </div>
 
----
 
-# 🚀 Featured Project
 
 <div align="center">
   <img src="./projects.svg" alt="Featured Projects" width="100%" />
 </div>
 
----
+
 
 <div align="center">
   <img src="./publications.svg" alt="publications" width="100%" />
 </div>
----
+
 <div align="center">
   <img src="./certifications.svg" alt="certifications" width="100%" />
 </div>
 
----
 
-# 🌐 Connect With Me
 
 <div align="center">
 
@@ -67,7 +60,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
