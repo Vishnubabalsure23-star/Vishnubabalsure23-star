@@ -6,6 +6,9 @@
 
 </div>
 
+<div align="center">                                                                                
+  <img src="./resume-skills.svg" alt="resume-skills" width="100%" /> 
+</div>
 
 
 <div align="center">
