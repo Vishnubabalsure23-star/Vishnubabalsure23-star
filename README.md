@@ -35,6 +35,7 @@
 
 </div>
 
+---
  
 <h2 align="center">🌟 Research Spotlight</h2>
 
