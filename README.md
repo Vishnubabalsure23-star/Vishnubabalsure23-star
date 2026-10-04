@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg](https://github.com/Vishnubabalsure23-star/Vishnubabalsure23-star/blob/main/snake-dark.svg"/>
+<img src="snake-dark.svg"/>
 
 </div>
 
