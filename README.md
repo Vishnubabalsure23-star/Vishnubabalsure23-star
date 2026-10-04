@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Undergraduate;Machine+Learning+Enthusiast;Generative+AI+Explorer" alt="Typing SVG" />
+
 
 <br>
 
