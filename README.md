@@ -34,35 +34,10 @@
 </div>
 
 ---
- 
 
-<h3>📝 LinkedIn Job Trend Analysis</h3>
-
-<p>
-Published in <b>IJARSET</b>, this research explores workforce trends using LinkedIn datasets to identify emerging skills, hiring patterns, and industry demands through data-driven analysis.
-</p>
-
-<br>
-
-<table>
-<tr>
-<td align="center">📈<br><b>Hiring Trends</b></td>
-<td align="center">🎯<br><b>Skill Demand</b></td>
-<td align="center">🏢<br><b>Industry Insights</b></td>
-<td align="center">📊<br><b>Data Analytics</b></td>
-</tr>
-</table>
-
-<br>
-
-⭐ Published Research • 📖 Academic Contribution • 🚀 Data-Driven Insights
-
-</td>
-</tr>
-</table>
-
+<div align="center">
+  <img src="./publications.svg" alt="publications" width="100%" />
 </div>
-
 ---
 
 <h2 align="center">🎓 Certification Dashboard</h2>
