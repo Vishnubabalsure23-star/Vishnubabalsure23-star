@@ -16,7 +16,7 @@
 
 <div align="center">
 
-![Light Theme Preview](https://github.com/Vishnubabalsure23-star/Vishnubabalsure23-star/blob/main/light.svg?raw=true)
+![Light Theme Preview](https://github.com/Vishnubabalsure23-star/Vishnubabalsure23-star/blob/main/dark%20(1).svg)
 
 </div>
 ---
