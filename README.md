@@ -19,27 +19,6 @@
 ![Light Theme Preview](https://github.com/Vishnubabalsure23-star/Vishnubabalsure23-star/blob/main/light.svg?raw=true)
 
 </div>
-
----
-
-## 🌌 About Me
-
-```yaml
-Name: Vishnu Babalsure
-Degree: B.E. in Artificial Intelligence & Data Science
-Focus: AI • Machine Learning • Data Science • GenAI
-Location: India 🇮🇳
-
-Currently:
-  - Building AI-powered applications
-  - Exploring LLMs and Agentic AI
-  - Working on Machine Learning projects
-  - Learning advanced Data Analytics
-
-Goal:
-  Transform data into intelligent solutions.
-```
-
 ---
 
 ## 🚀 Tech Stack
