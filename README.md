@@ -2,11 +2,21 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Undergraduate;Machine+Learning+Developer;Data+Analytics+Enthusiast;Generative+AI+Explorer;Building+Intelligent+Solutions+with+AI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Undergraduate;Machine+Learning+Enthusiast;Generative+AI+Explorer" alt="Typing SVG" />
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🌟 Preview
+
+<div align="center">
+
+![Light Theme Preview](https://github.com/Vishnubabalsure23-star/Vishnubabalsure23-star/blob/main/light.svg?raw=true)
 
 </div>
 
@@ -277,6 +287,7 @@ Excel Certification
 
 </tr>
 </table>
+
 ---
 
 # 🌐 Connect With Me
