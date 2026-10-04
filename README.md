@@ -37,13 +37,6 @@
 
 ---
  
-<h2 align="center">🌟 Research Spotlight</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="100%">
 
 <h3>📝 LinkedIn Job Trend Analysis</h3>
 
