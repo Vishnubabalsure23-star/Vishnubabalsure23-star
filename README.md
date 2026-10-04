@@ -6,9 +6,9 @@
 
 </div>
 
-<div align="center">                                                                                
-  <img src="./resume-skills.svg" alt="resume-skills" width="100%" /> 
-</div>
+<div align="center">                                                                           <div align="center">                                                                            
+  <img src="./resume-skills.svg" alt="resume-skills" width="100%" />                               <img src="./resume-stats (1).svg" alt="resume-stats" width="100%" /> 
+</div>                                                                                         </div>
 
 
 <div align="center">
