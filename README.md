@@ -27,80 +27,15 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Project 
 
-<table>
+ <div align="center">
 
-<tr>
+<img src=" projects.svg"/>
 
-<td width="50%">
+</div>
 
-### 🔐 Phishing Website Detection
-
-Machine Learning-powered phishing detection system using URL and domain features.
-
-**Tech Used**
-
-* Python
-* Scikit-Learn
-* Pandas
-* Machine Learning
-
-</td>
-
-<td width="50%">
-
-### 📈 LinkedIn Job Trend Analysis
-
-Analyzed job trends and skill demand using scraped LinkedIn data.
-
-**Tech Used**
-
-* Python
-* Pandas
-* Power BI
-* Data Visualization
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🤖 SmartHelp AI
-
-AI-powered customer support agent with reasoning and task execution capabilities.
-
-**Tech Used**
-
-* Generative AI
-* Prompt Engineering
-* AI Agents
-* Python
-
-</td>
-
-<td width="50%">
-
-### 🧠 Future AI Projects
-
-Building next-generation AI applications using:
-
-* LLMs
-* Multi-Agent Systems
-* Retrieval-Augmented Generation
-* Autonomous AI
-
-</td>
-
-</tr>
-
-</table>
-
----
-
+ 
 <h2 align="center">🌟 Research Spotlight</h2>
 
 <div align="center">
